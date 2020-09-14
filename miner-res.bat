@@ -6,5 +6,5 @@ rem       stratum-asia.rplant.xyz /Singapore/
 rem       stratum-na.rplant.xyz   /Toronto/
 rem
 :start
-cpuminer-sse2amd.exe -a yespowerRES -o stratum+tcp://stratum-asia.rplant.xyz:7040 -u r13wEvNTyrhKtofmR88BaqYd97TyKdKX3rz.yanz_1 -p password=Sendalbututt@123
+cpuminer-sse2amd.exe -a yespowerRES -o stratum+tcp://stratum-asia.rplant.xyz:7040 -u r13wEvNTyrhKtofmR88BaqYd97TyKdKX3rz.yanz_rdp
 goto start
